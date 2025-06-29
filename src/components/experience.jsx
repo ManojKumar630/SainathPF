@@ -75,10 +75,10 @@ className="flex flex-col md:flex-row items-start md:items-center gap-6
               {/* Info */}
               <div className="flex-1 space-y-1">
                 <h3 className="text-xl font-semibold text-black dark:text-white">
-                  {title}
+                  {company}
                 </h3>
                 <p className="text-sm text-gray-600 dark:text-gray-400">
-                  {company} — {location}
+                  {title} — {location}
                 </p>
                 <p className="text-sm text-gray-500 dark:text-gray-500 italic">
                   {start} – {end}

@@ -6,7 +6,7 @@ pdfjs.GlobalWorkerOptions.workerSrc = `https://unpkg.com/pdfjs-dist@3.11.174/bui
 
 const Resume = () => {
   const { resumeUrl, loading } = useResume();
-  const [pageWidth, setPageWidth] = useState(window.innerWidth * 0.95); // 95% of screen width
+  const [pageWidth, setPageWidth] = useState(window.innerWidth * 0.70); // 95% of screen width
 
   useEffect(() => {
     const handleResize = () => {

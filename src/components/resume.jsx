@@ -28,7 +28,7 @@ const Resume = () => {
         download
         target="_blank"
         rel="noopener noreferrer"
-        className="mt-8 mb-6 px-6 py-3 bg-black text-white dark:bg-white dark:text-black rounded-full hover:bg-red-600 dark:hover:bg-red-500 transition"
+        className="mt-8 mb-6 px-6 py-3 bg-black text-white dark:bg-white dark:text-black rounded-full hover:bg-red-600 dark:hover:bg-green-500 transition"
       >
         Download Resume
       </a>
@@ -50,7 +50,7 @@ const Resume = () => {
         download
         target="_blank"
         rel="noopener noreferrer"
-        className="mt-8 mb-6 px-6 py-3 bg-black text-white dark:bg-white dark:text-black rounded-full hover:bg-red-600 dark:hover:bg-red-500 transition"
+        className="mt-8 mb-6 px-6 py-3 bg-black text-white dark:bg-white dark:text-black rounded-full hover:bg-red-600 dark:hover:bg-green-500 transition"
       >
         Download Resume
       </a>
